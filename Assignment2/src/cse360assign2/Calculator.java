@@ -1,7 +1,7 @@
 /*Name: Daniel Martinez
  *Class ID: 475
  *Assignment #: 2
- *Description: 
+ *Description: This is going to be assignment number 2 
  * 
  * 
  * 
