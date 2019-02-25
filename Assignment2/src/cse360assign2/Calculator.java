@@ -1,4 +1,4 @@
-/*Name: Daniel Martinez
+/**Name: Daniel Martinez
  *Class ID: 475
  *Assignment #: 2
  *Description: This is going to be assignment number 2 
@@ -21,7 +21,7 @@ public class Calculator {
 	}
 	
 	public int getTotal () {
-		return 0;
+		return total;
 	}
 	
 	public void add (int value) {
@@ -37,6 +37,7 @@ public class Calculator {
 	}
 	
 	public void divide (int value) {
+		
 		
 	}
 	
